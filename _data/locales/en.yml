@@ -4,16 +4,16 @@
 
 layout:
   post: Post
-  category: repos
+  category: Categories
   tag: Tag
 
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
   home: Home
-  category: Repos
+  categories: Repos
   tags: Tags
-  archives: Archives
+  archives: Timeline
   about: About
 
 # the text displayed in the search bar & search results
