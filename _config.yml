@@ -16,7 +16,7 @@ timezone: America/New_York
 
 title: JasonWilder117 # the main title
 
-tagline: "Nerds don't get old, we level up!" # it will display as the sub-title
+tagline: <i>Axis Vapix, Axis Acap, Bash, Kshell, Perl, C#, Networking, Virtualization, Docker, Node-Red, IOT_Rpi_Arduino, Blockchain, Crypto Mining, AI image and audio creation</i> <br> <br> <b> <i>Nerds don't get old, we level up!</i></b> # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
