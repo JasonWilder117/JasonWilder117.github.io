@@ -5,7 +5,7 @@ order: 4
 ---
 
 
-![Alt Text]<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTh5N3htdGJneThoYnh4ZWQ0ZHM3NG1hcG0xcmRpcGdnbnhoNXJvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YRzMh5cKgmOyuTrtIj/giphy.gif" width="350" height="350" />  
+![Alt Text](<https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTh5N3htdGJneThoYnh4ZWQ0ZHM3NG1hcG0xcmRpcGdnbnhoNXJvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YRzMh5cKgmOyuTrtIj/giphy.gif>)
 
 I am from in and around Cincinnati, Ohio
 Studied at Northern Kentucky University
@@ -29,7 +29,7 @@ Experience and background in:
 Scripting/Programming:  
 
 - Bash
-- Korn SHell
+- Korn Shell
 - Powershell
 - Batch
 - Python
